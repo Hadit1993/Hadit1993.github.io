@@ -1,0 +1,627 @@
+{
+  "status": "success",
+  "status_code": 200,
+  "message": "Get page home-platform :pwa",
+  "data": {
+    "id": 1,
+    "slug": "home",
+    "title": "Home Pages",
+    "page_type": "dynamic",
+    "platform": "pwa,mobile",
+    "meta_data": "meta data",
+    "created_at": "2019-01-01 11:00:00",
+    "updated_at": "2019-01-01 11:00:00",
+    "components": [
+      {
+        "id": 41,
+        "page_id": 1,
+        "component_id": 56,
+        "order": 1,
+        "component_slug": "LogoHeader",
+        "component_title": "banimode-logo",
+        "platform": "pwa,mobile",
+        "component_is_active": 1,
+        "component_type": "LogoHeader",
+        "attributes": []
+      },
+      {
+        "id": 2,
+        "page_id": 1,
+        "component_id": 48,
+        "order": 2,
+        "component_slug": "PromotionalBanner",
+        "component_title": "Promotional Banner",
+        "platform": "pwa,mobile",
+        "component_is_active": 1,
+        "component_type": "PromotionalBanner",
+        "attributes": {
+          "backgroundColor": {
+            "value": "#1ac977",
+            "prop": "backgroundColor"
+          },
+          "fontColor": {
+            "value": "#fff",
+            "prop": "fontColor"
+          },
+          "href": {
+            "value": "/1231/تولد-6-سالگی",
+            "prop": "href"
+          },
+          "icon": {
+            "value": "https://www.banimode.com/assets/img/icon/gift.svg",
+            "prop": "icon"
+          },
+          "text": {
+            "value": "1 خرید+ 1 هدیه به همراه 10% تخفیف بیشتر",
+            "prop": "text"
+          },
+          "isImage": {
+            "value": false,
+            "prop": "isImage"
+          },
+          "backgroundImage": {
+            "value": null,
+            "prop": "backgroundImage"
+          }
+        }
+      },
+      {
+        "id": 3,
+        "page_id": 1,
+        "component_id": 2,
+        "order": 3,
+        "component_slug": "CarouselComponent",
+        "component_title": "Slider",
+        "platform": "pwa,mobile",
+        "component_is_active": 1,
+        "component_type": "CarouselComponent",
+        "attributes": {
+          "src_sets": {
+            "id": 52,
+            "page_component_id": 3,
+            "component_id": 0,
+            "component_attribute_type": "array",
+            "prop": "src_sets",
+            "value": [
+              {
+                "pic_src": "https://www.banimode.com/img/cms/991214/1614840208.jpg",
+                "title": "تولد 6 سالگی بانی مد",
+                "href": "/1231/تولد-6-سالگی",
+                "order": "1",
+                "platform": "pwa,mobile",
+                "active": "1",
+                "start_date": null,
+                "end_date": null
+              },
+              {
+                "pic_src": "https://www.banimode.com/img/cms/991209/1614430115.jpg",
+                "title": "بازی تولد بانی مد",
+                "href": "https://www.banimode.com/landing/birthday/",
+                "order": "2",
+                "platform": "pwa,mobile",
+                "active": "1",
+                "start_date": null,
+                "end_date": null
+              },
+              {
+                "pic_src": "https://www.banimode.com/img/cms/991214/1614840259.jpg",
+                "title": "انواع پوشاک",
+                "href": "/1143/انواع-پوشاک",
+                "order": "3",
+                "platform": "pwa,mobile",
+                "active": "1",
+                "start_date": null,
+                "end_date": null
+              },
+              {
+                "pic_src": "https://www.banimode.com/img/cms/991214/1614840286.jpg",
+                "title": "انواع کیف و کفش",
+                "href": "/1213/جشنواره-فروش-ویژه-کیف-وکفش",
+                "order": "4",
+                "platform": "pwa,mobile",
+                "active": "1",
+                "start_date": null,
+                "end_date": null
+              },
+              {
+                "pic_src": "https://www.banimode.com/img/cms/991214/1614840312.jpg",
+                "title": "اکسسوری تولد 6",
+                "href": "/1238/جشنواره-تولد-انواع-اکسسوری",
+                "order": "5",
+                "platform": "pwa,mobile",
+                "active": "1",
+                "start_date": null,
+                "end_date": null
+              },
+              {
+                "pic_src": "https://www.banimode.com/img/cms/991214/1614840373.jpg",
+                "title": "سلامت و زیبایی",
+                "href": "/1236/زیبایی-و-سلامت-ویژه-تولد",
+                "order": "6",
+                "platform": "pwa,mobile",
+                "active": "1",
+                "start_date": null,
+                "end_date": null
+              }
+            ],
+            "created_at": "2020-04-13 10:42:58",
+            "updated_at": "2021-03-04 06:46:14"
+          }
+        }
+      },
+      {
+        "id": 93,
+        "page_id": 1,
+        "component_id": 84,
+        "order": 4,
+        "component_slug": "SingleButton",
+        "component_title": "دانلود اپلیکیشن",
+        "platform": "pwa",
+        "component_is_active": 1,
+        "component_type": "SingleButton",
+        "attributes": {
+          "backgroundColor": {
+            "value": "#17395b",
+            "prop": "backgroundColor"
+          },
+          "fontColor": {
+            "value": "#fff",
+            "prop": "fontColor"
+          },
+          "href": {
+            "value": "https://a.chabok.io/SjIhiC",
+            "prop": "href"
+          },
+          "icon": {
+            "value": "https://www.banimode.com/assets/img/icon/gift.svg",
+            "prop": "icon"
+          },
+          "text": {
+            "value": "دانلود اپلیکیشن موبایل بانی مد",
+            "prop": "text"
+          },
+          "isImage": {
+            "value": false,
+            "prop": "isImage"
+          },
+          "backgroundImage": {
+            "value": null,
+            "prop": "backgroundImage"
+          },
+          "platform": {
+            "value": "pwa",
+            "prop": "platform"
+          }
+        }
+      },
+      {
+        "id": 4,
+        "page_id": 1,
+        "component_id": 50,
+        "order": 5,
+        "component_slug": "ThreeItemBanner",
+        "component_title": "Three Item Banner",
+        "platform": "pwa,mobile",
+        "component_is_active": 1,
+        "component_type": "ThreeItemBanner",
+        "attributes": {
+          "src_sets": {
+            "id": 53,
+            "page_component_id": 4,
+            "component_id": 50,
+            "component_attribute_type": "array",
+            "prop": "src_sets",
+            "value": [
+              {
+                "pic_src": "https://www.banimode.com/img/cms/991129/1613550433.jpg",
+                "href": "/pages/women",
+                "platform": "pwa,mobile",
+                "active": "1",
+                "order": "1"
+              },
+              {
+                "pic_src": "https://www.banimode.com/img/cms/991129/1613550440.jpg",
+                "href": "/pages/men",
+                "platform": "pwa,mobile",
+                "active": "1",
+                "order": "2"
+              },
+              {
+                "pic_src": "https://www.banimode.com/img/cms/991129/1613550448.jpg",
+                "href": "/pages/children",
+                "platform": "pwa,mobile",
+                "active": "1",
+                "order": "3"
+              }
+            ],
+            "created_at": "2020-04-13 10:42:58",
+            "updated_at": "2021-02-23 15:14:04"
+          }
+        }
+      },
+      {
+        "id": 52,
+        "page_id": 1,
+        "component_id": 50,
+        "order": 6,
+        "component_slug": "ThreeItemBanner_2",
+        "component_title": "TREEITEM",
+        "platform": "pwa,mobile",
+        "component_is_active": 1,
+        "component_type": "ThreeItemBanner",
+        "attributes": {
+          "src_sets": {
+            "id": 95,
+            "page_component_id": 52,
+            "component_id": 0,
+            "component_attribute_type": "array",
+            "prop": "src_sets",
+            "value": [
+              {
+                "pic_src": "https://www.banimode.com/img/cms/991129/1613550462.jpg",
+                "href": "/pages/beauty",
+                "platform": "pwa",
+                "active": "1",
+                "order": "1"
+              },
+              {
+                "pic_src": "https://www.banimode.com/img/cms/991129/1613550473.jpg",
+                "href": "/567/لوازم-خانه",
+                "platform": "pwa,mobile",
+                "active": "1",
+                "order": "2"
+              },
+              {
+                "pic_src": "https://www.banimode.com/img/cms/991129/1613550481.jpg",
+                "href": "/618/مواد-غذایی",
+                "platform": "pwa,mobile",
+                "active": "1",
+                "order": "3"
+              }
+            ],
+            "created_at": "2020-06-01 06:04:26",
+            "updated_at": "2021-02-23 15:17:36"
+          }
+        }
+      },
+      {
+        "id": 53,
+        "page_id": 1,
+        "component_id": 54,
+        "order": 7,
+        "component_slug": "AmazingSectionCarousel",
+        "component_title": "amazing",
+        "platform": "pwa,mobile",
+        "component_is_active": 1,
+        "component_type": "AmazingSectionCarousel",
+        "attributes": {
+          "url": {
+            "value": "/products/flash-sales",
+            "prop": "url",
+            "component_attribute_type": "string"
+          }
+        }
+      },
+      {
+        "id": 43,
+        "page_id": 1,
+        "component_id": 52,
+        "order": 8,
+        "component_slug": "OneItemBanner_2",
+        "component_title": "OneItemBanner_2",
+        "platform": "pwa,mobile",
+        "component_is_active": 1,
+        "component_type": "OneItemBanner",
+        "attributes": {
+          "src_sets": {
+            "id": 56,
+            "page_component_id": 43,
+            "component_id": 52,
+            "component_attribute_type": "array",
+            "prop": "src_sets",
+            "value": [
+              {
+                "pic_src": "https://www.banimode.com/img/cms/991214/1614840943.jpg",
+                "href": "/1231/تولد-6-سالگی"
+              }
+            ],
+            "created_at": "2020-04-13 10:42:59",
+            "updated_at": "2021-03-04 06:55:45"
+          }
+        }
+      },
+      {
+        "id": 5,
+        "page_id": 1,
+        "component_id": 53,
+        "order": 9,
+        "component_slug": "SuggestionsCarousel",
+        "component_title": "پیشنهاد بانی مد",
+        "platform": "pwa,mobile",
+        "component_is_active": 1,
+        "component_type": "SuggestionsCarousel",
+        "attributes": {
+          "url": {
+            "value": "/products/suggestion",
+            "prop": "url",
+            "component_attribute_type": "string"
+          }
+        }
+      },
+      {
+        "id": 50,
+        "page_id": 1,
+        "component_id": 51,
+        "order": 11,
+        "component_slug": "TwoItemBanner_2",
+        "component_title": "Two Item Banner",
+        "platform": "pwa,mobile",
+        "component_is_active": 1,
+        "component_type": "TwoItemBanner",
+        "attributes": {
+          "src_sets": {
+            "id": 93,
+            "page_component_id": 50,
+            "component_id": 0,
+            "component_attribute_type": "array",
+            "prop": "src_sets",
+            "value": [
+              {
+                "pic_src": "https://www.banimode.com/img/cms/991129/1613550551.jpg",
+                "href": "/4/لباس-زنانه",
+                "platform": "pwa,mobile",
+                "active": "1"
+              },
+              {
+                "pic_src": "https://www.banimode.com/img/cms/991129/1613550562.jpg",
+                "href": "/3/لباس-مردانه",
+                "platform": "pwa,mobile",
+                "active": "1"
+              }
+            ],
+            "created_at": "2020-06-01 05:47:57",
+            "updated_at": "2021-02-17 08:29:23"
+          }
+        }
+      },
+      {
+        "id": 108,
+        "page_id": 1,
+        "component_id": 51,
+        "order": 12,
+        "component_slug": "TwoItemBanner_2",
+        "component_title": "third item banner",
+        "platform": "pwa,mobile",
+        "component_is_active": 1,
+        "component_type": "TwoItemBanner",
+        "attributes": {
+          "src_sets": {
+            "id": 149,
+            "page_component_id": 108,
+            "component_id": null,
+            "component_attribute_type": "array",
+            "prop": "src_sets",
+            "value": [
+              {
+                "pic_src": "https://www.banimode.com/img/cms/991129/1613550576.jpg",
+                "href": "/1144/انواع-کیف-و-کفش-زنانه-و-مردانه",
+                "platform": "pwa,mobile",
+                "active": "1"
+              },
+              {
+                "pic_src": "https://www.banimode.com/img/cms/991129/1613550582.jpg",
+                "href": "/1136/انواع-اکسسوری",
+                "platform": "pwa,mobile",
+                "active": "1"
+              }
+            ],
+            "created_at": "2021-01-16 10:33:16",
+            "updated_at": "2021-02-17 08:29:43"
+          }
+        }
+      },
+      {
+        "id": 91,
+        "page_id": 1,
+        "component_id": 76,
+        "order": 13,
+        "component_slug": "BaniBlog",
+        "component_title": "جدیدترینِ بانی مگ",
+        "platform": "pwa,mobile",
+        "component_is_active": 1,
+        "component_type": "BaniBlog",
+        "attributes": {
+          "src_sets": {
+            "id": 133,
+            "page_component_id": 91,
+            "component_id": 0,
+            "component_attribute_type": "array",
+            "prop": "src_sets",
+            "value": [
+              {
+                "title": "جدیدترینِ بانی مگ",
+                "api": "blog-post",
+                "url": "blog"
+              }
+            ],
+            "created_at": "2020-09-06 15:31:21",
+            "updated_at": "2020-09-10 10:53:37"
+          }
+        }
+      },
+      {
+        "id": 6,
+        "page_id": 1,
+        "component_id": 60,
+        "order": 14,
+        "component_slug": "BrandsCarousel",
+        "component_title": "Brands Carousel",
+        "platform": "pwa,mobile",
+        "component_is_active": 1,
+        "component_type": "BrandsCarousel",
+        "attributes": {
+          "src_sets": {
+            "id": 91,
+            "page_component_id": 6,
+            "component_id": 0,
+            "component_attribute_type": "array",
+            "prop": "src_sets",
+            "value": [
+              {
+                "title": "baleno",
+                "pic_src": "https:\\/\\/apigw.banimode.com\\/assets\\/img\\/temp-imgs\\/brands\\/baleno.jpg",
+                "href": "#"
+              }
+            ],
+            "created_at": "2020-05-18 13:13:16",
+            "updated_at": "2020-05-19 05:32:37"
+          }
+        }
+      },
+      {
+        "id": 90,
+        "page_id": 1,
+        "component_id": 80,
+        "order": 15,
+        "component_slug": "CustomerSupport",
+        "component_title": "بخش پشتیبانی",
+        "platform": "pwa,mobile",
+        "component_is_active": 1,
+        "component_type": "CustomerSupport",
+        "attributes": {
+          "src_sets": {
+            "id": 131,
+            "page_component_id": 90,
+            "component_id": 0,
+            "component_attribute_type": "array",
+            "prop": "src_sets",
+            "value": [
+              {
+                "title": "میزبان صدای گرمتان هستیم",
+                "desc1": "7 روز هفته - 24 ساعته",
+                "desc2": null
+              }
+            ],
+            "created_at": "2020-08-27 05:58:41",
+            "updated_at": "2020-09-20 06:50:14"
+          }
+        }
+      },
+      {
+        "id": 95,
+        "page_id": 1,
+        "component_id": 81,
+        "order": 16,
+        "component_slug": "ServiceGuarantee",
+        "component_title": "بخش صمانت ها",
+        "platform": "pwa,mobile",
+        "component_is_active": 1,
+        "component_type": "ServiceGuarantee",
+        "attributes": {
+          "src_sets": {
+            "id": 137,
+            "page_component_id": 95,
+            "component_id": null,
+            "component_attribute_type": "array",
+            "prop": "src_sets",
+            "value": [
+              {
+                "pic_src": "https://www.banimode.com/themes/new/assets/images/icon/warranty-pwa.svg",
+                "title": "ضمانت بازگشت کالا",
+                "url": "/content/3/",
+                "order": "1",
+                "active": "1"
+              },
+              {
+                "pic_src": "https://www.banimode.com/themes/new/assets/images/icon/originality.svg",
+                "active": "1",
+                "title": "ضمانت اصالت",
+                "url": "/content/39/",
+                "order": "2"
+              },
+              {
+                "pic_src": "https://www.banimode.com/themes/new/assets/images/icon/support.svg",
+                "active": "1",
+                "title": "خدمات پس از فروش",
+                "url": "/content/8/",
+                "order": "3"
+              },
+              {
+                "pic_src": "https://www.banimode.com/themes/new/assets/images/icon/delivery.svg",
+                "title": "تحویل سریع و آسان",
+                "url": "/content/1/",
+                "order": "4",
+                "active": "1"
+              }
+            ],
+            "created_at": "2020-09-27 19:10:38",
+            "updated_at": "2020-12-26 10:33:12"
+          }
+        }
+      },
+      {
+        "id": 94,
+        "page_id": 1,
+        "component_id": 82,
+        "order": 17,
+        "component_slug": "AboutBanimode",
+        "component_title": "درباره بانی مد",
+        "platform": "pwa,mobile",
+        "component_is_active": 1,
+        "component_type": "AboutBanimode",
+        "attributes": {
+          "src_sets": {
+            "id": 136,
+            "page_component_id": 94,
+            "component_id": null,
+            "component_attribute_type": "array",
+            "prop": "src_sets",
+            "value": [
+              {
+                "title": "درباره بانی مد",
+                "description": "فروشگاه اینترنتی بانی مد فعالیت خود را در زمینه پوشاک به صورت تخصصی از سال ۱۳۹۳ بعنوان تنها فروشگاه آنلاین پوشاک جین وست آغاز نمود و با تلاشهای بی وقفه ضمن تنوع بخشیدن به انواع محصولات و همکاری با معتبرترین برندهای دنیا (جین وست، ساموئل و کوین، بالنو، جوتی جینز)، کیفیت اجناس خود را به میزان قابل توجهی افزایش داد که رضایت اکثریت مشتریان گرامی گواه بر این ادعاست و این رضایت پشتوانه استواری است که نیل به اهداف تدوین شده را در بلند مدت محقق می سازد.محصولات ارائه شده توسط بانی مد در بخش لباس زنانه شامل تاپ و تی شرت، شومیز و بلوز و دامن، لباس مجلسی، کت و کاپشن، پلیور و ژاکت، سویشرت، شلوار کتان، شلوارک، تونیک، مانتو، شلوار جین و در لباس مردانه شامل پیراهن، پلیور، تیشرت، سویشرت، کت و کاپشن، شلوار جین، شلوار کتان، شلوارک، لباس زیر و لباس دخترانه شامل تیشرت، کاپشن، شلوار، پلیور، کفش، پیراهن، لباس شنا،اکسسوری و در گروه لباس پسرانه شامل پیراهن، تیشرت، کاپشن، شلوار،لباس شنا، پلیور و در گروه اکسسوری کلاه، دستکش، شال گردن، صندل، جوراب، کفش، کیف، لباس زیر، چتر، ساعت، شال و روسری،طلا وجواهر، زیورآلات و در گروه زیبایی و سلامت شامل عطر و ادکلن،لوازم آرایشی می باشد.سالها حضور موفق در صنعت پوشاک ایران، بازاریابی مبتنی بر سلایق و فرهنگ پوشاک ایرانیان و همچنین استقبال چشمگیر و مداوم از محصولات و برندهای برتر ارائه شده در فروشگاه های این مجموعه این امکان را به شما می دهد تا اینک با صرف کمترین انرژی در هر ساعت از شبانه روز و در هر نقطه از کشور محصولات و لباس های مورد نظر خود را انتخاب کرده و خریدی مطمئن و آسان را از خانه یا محل کار خود تجربه کرده و اجناس مورد علاقه خود را در محل دلخواه خود در کمترین زمان ممکن دریافت نمایید، از شما دعوت می نماییم ضمن بازدید از بخشهای مختلف سایت ما را سرافراز فرمایید."
+              }
+            ],
+            "created_at": "2020-09-27 19:08:42",
+            "updated_at": "2020-09-27 19:08:42"
+          }
+        }
+      },
+      {
+        "id": 54,
+        "page_id": 1,
+        "component_id": 66,
+        "order": 18,
+        "component_slug": "Modal",
+        "component_title": "25 درصد خرید اول",
+        "platform": "pwa",
+        "component_is_active": 1,
+        "component_type": "Modal",
+        "attributes": {
+          "src_sets": {
+            "id": 97,
+            "page_component_id": 54,
+            "component_id": 0,
+            "component_attribute_type": "array",
+            "prop": "src_sets",
+            "value": [
+              {
+                "modalType": "false",
+                "pic_src": "https://www.banimode.com/img/cms/991006/1608965229.jpg",
+                "title": "دانلود اپلیکیشن بانی مد",
+                "text": "تجربه خرید آسان تر !",
+                "button_1_title": "بعدا !",
+                "button_1_url": null,
+                "button_2_title": "دانلود اپلیکیشن",
+                "button_2_url": "https://a.chabok.io/SjIhiC",
+                "Active": "true"
+              }
+            ],
+            "created_at": "2020-08-18 11:45:29",
+            "updated_at": "2021-02-27 07:47:50"
+          }
+        }
+      }
+    ]
+  }
+}
